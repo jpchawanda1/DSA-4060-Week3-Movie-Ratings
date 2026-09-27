@@ -1,0 +1,11 @@
+rank,movie_id,movie_title,avg_rating,num_ratings
+1,M021,Market Day,4.47,15
+2,M013,Midnight in Mombasa,4.35,17
+3,M014,Code Breakers,4.25,16
+4,M020,Home Again,4.13,15
+5,M019,Future Africa,4.13,15
+6,M007,Hidden Lake,4.12,16
+7,M006,City of Tomorrow,3.91,34
+8,M005,Mountain Echoes,3.86,37
+9,M012,The Final Goal,3.76,17
+10,M004,Coastal Dreams,3.67,27
